@@ -1,0 +1,17 @@
+=== RELATORIO DE CARONAS ===
+
+---------------------
+Origem: sj
+Destino: cz
+Data: 20/12/2006 - Horário: 14.10
+Valor por vaga: R$10.00
+Vagas restantes: 2
+Total: R$20.00
+------------------------------------------
+Origem: sao joao do rio do peixe
+Destino: cajazeiras
+Data: 20/12/2006 - Horário: 14.10
+Valor por vaga: R$10.00
+Vagas restantes: 2
+Total: R$20.00
+---------------------Total Geral: R$0.00
